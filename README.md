@@ -1,0 +1,3 @@
+This repository demonstrates two uncommon error scenarios in Python. The first involves attempting arithmetic operations (division) with incompatible data types, which results in a TypeError.  The second showcases a NameError caused by incorrect variable scoping within nested functions.
+
+The `bug.py` file contains the code exhibiting these errors.  The `bugSolution.py` file provides improved, more robust code with appropriate error handling and corrected variable scoping.
